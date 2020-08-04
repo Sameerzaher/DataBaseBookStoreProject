@@ -1,0 +1,2 @@
+C:\cpp\mysql-with-cpp-master\x64\Debug\BookStore2020.pdb
+C:\cpp\mysql-with-cpp-master\x64\Debug\BookStore2020.exe
